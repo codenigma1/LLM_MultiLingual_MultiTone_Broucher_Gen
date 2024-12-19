@@ -15,11 +15,12 @@ Generate multilingual, visually appealing company brochures tailored for custome
 
 ## 🎥 Demo
 
-  <img src="media/1.gif" alt="Selecting Chinese Language" width="350" height="auto">
-  <img src="/media/2.gif" alt="English" width="350" height="auto">
-  <img src="/media/3.gif" alt="French" width="350" height="auto">
+<p align="center">
+  <img src="media/1.gif" alt="Selecting Chinese Language" width="250" height="auto">
+  <img src="media/2.gif" alt="English" width="250" height="auto">
+  <img src="media/3.gif" alt="French" width="250" height="auto">
+</p>
 
----
 
 ## 🛠️ Setup Guidelines
 
