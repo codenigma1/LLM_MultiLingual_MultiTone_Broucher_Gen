@@ -65,14 +65,6 @@ http://localhost:8501
 
 ---
 
-## 🖼️ Where to Add the GIF
-
-- **Demo Section**: Add your GIF in the `🎥 Demo` section above.
-  - Save your GIF file in the root directory of your repository.
-  - Replace `your-gif-file-name.gif` with the name of your GIF file.
-
----
-
 ## 📂 Project Structure
 
 ```plaintext
